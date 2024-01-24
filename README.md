@@ -11,10 +11,10 @@ This repository holds the complete code and script for TeacherHub. TeacherHub is
 3. Symfony [install](https://symfony.com/download) .  Optionally, you can also install Symfony CLI. This creates a binary called symfony that provides all the tools you need to develop and run your Symfony application locally. 
 4. Node [install](https://nodejs.org/en/download/current/)
 5. Yarn [install](https://classic.yarnpkg.com/en/docs/install/)
-6. A clone of `Simple-Calendar` repo
+6. A clone of `TeacherHub` repo
 
 ### Installation <br />
-1. `cd Simple-Calendar` to go into project root 
+1. `cd TeacherHub` to go into project root 
 2. Make sure you have [Composer installed](https://getcomposer.org/download/)
 and then run:
 
